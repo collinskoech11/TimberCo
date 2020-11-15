@@ -2,8 +2,8 @@
 Obuds2020 is a wood based business which specializes in sourcing and selling different kinds of wood.
 Currently their focus is on softwood and hardwood.
 The woods are categorized according to the dimensions as :
- A-1X1”,
- B-1X2”,
+A-1X1”,
+B-1X2”,
 C-2X2”,
 D-2X3”,
 E-3X3”,
