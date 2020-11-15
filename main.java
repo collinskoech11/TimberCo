@@ -14,7 +14,12 @@ public class main{
       }
       int [] categoryDimension = new int[length];
     
-      System.out.println("Enter Category dimensions")
+      System.out.println("Enter Category dimensions:");
+
+      for(int i=0; i<length; i++ ) {
+         categoryDimension[i] = s.nextInt();
+      }
+
       s.close();
       System.out.println(Arrays.toString(categoryName));
    }
