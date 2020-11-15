@@ -1,4 +1,4 @@
-## Cost Calculator
+## TimberCo
 Obuds2020 is a wood based business which specializes in sourcing and selling different kinds of wood.
 Currently their focus is on softwood and hardwood.
 The woods are categorized according to the dimensions as :
