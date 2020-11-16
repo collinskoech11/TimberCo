@@ -20,6 +20,11 @@ public class main{
          categoryDimension[i] = s.nextInt();
       }
 
+      System.out.println("Category    Dimension");
+      for(int f=0; f<length; f++){
+         System.out.println(categoryName[f]+"  "+categoryDimension[f]);
+      }
+     
       s.close();
       System.out.println(Arrays.toString(categoryName));
    }
