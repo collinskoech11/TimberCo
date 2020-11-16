@@ -26,6 +26,6 @@ public class main{
       }
      
       s.close();
-      System.out.println(Arrays.toString(categoryName));
+      
    }
 }
