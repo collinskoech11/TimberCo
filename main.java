@@ -52,36 +52,46 @@ public static void main(String[] args){
     
     System.out.println("Original string array : "+Arrays.toString(WoodType));
     double costA = 300.0;
+    double costC;
+    double costD;
+    double costE;
+    double costF;
+    double costG;
+    double costH;
+    double costI;
+    double costJ;
+
         
     if (WoodType[1] == "A") {
         costA = 300;
       }
       else if(WoodType[1] == "B") {
-        int costB = costA + 0.3(costA);
+       double  costB = costA + 0.3*costA;
       }
       else if(WoodType[1] == "C") {
-        int costC = costB + 0.3(costB);
+        double costB;
+      costC = costB + 0.3*costB;
       }
       else if(WoodType[1] == "D") {
-        int costC = costC + 0.3(costC);
+         costD = costC + 0.3*(costC);
       }
       else if(WoodType[1] == "E") {
-        int costE = costD + 0.3(costD);
+         costE = costD + 0.3*(costD);
       }
       else if(WoodType[1] == "F") {
-        int costF = costE + 0.3(costE);
+         costF = costE + 0.3*(costE);
       }
       else if(WoodType[1] == "G") {
-        int costG = costF + 0.3(costF);
+         costG = costF + 0.3*(costF);
       }
       else if(WoodType[1] == "H") {
-        int costH = costG + 0.3(costG);
+        costH = costG + 0.3*(costG);
       }
       else if(WoodType[1] == "I") {
-        int costI = costH + 0.3(costH);
+         costI = costH + 0.3*(costH);
       }
       else if(WoodType[1] == "J") {
-        int costJ = costI + 0.3(costI);
+        costJ = costI + 0.3*(costI);
       }
       // checks if number is less than 0
       
